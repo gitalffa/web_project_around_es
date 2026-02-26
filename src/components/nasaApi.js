@@ -17,5 +17,5 @@ export class NasaApi {
 
 export const nasaApi = new NasaApi({
   baseUrl: "https://api.nasa.gov/planetary/apod",
-  apiKey: "DEMO_KEY",
+  apiKey: "Zr9gZRzFDRbX4MwTaaWEDtXMKPfgzk6nDe2Mfyo2",
 });

@@ -10,7 +10,6 @@
 }
 
 .nasa__title {
-  color: aliceblue;
   margin: 0 0 10px;
 }
 
@@ -33,12 +32,10 @@
 }
 
 .nasa__caption {
-  color: aliceblue;
   margin: 10px 0 6px;
 }
 
 .nasa__explanation {
-  color: aliceblue;
   margin: 0;
   opacity: 0.9;
 }
