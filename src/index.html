@@ -163,7 +163,35 @@
             <img src="./images/add-image.png" alt="button add" />
           </button>
         </section>
+        <!-- api weather  -->
+        <section class="weather" aria-label="Clima actual">
+          <h2 class="weather__title">Clima en Tepic</h2>
+          <p class="weather__status">Cargando…</p>
+        </section>
+        <!-- fin api weather -->
 
+        <!-- api NASA -->
+        <section class="nasa" aria-label="NASA APOD">
+          <h2 class="nasa__title">NASA: Imagen del día</h2>
+
+          <div class="nasa__card">
+            <p class="nasa__status">Cargando…</p>
+
+            <a
+              class="nasa__link"
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+              hidden
+            >
+              <img class="nasa__image" alt="NASA APOD" />
+            </a>
+
+            <h3 class="nasa__caption" hidden></h3>
+            <p class="nasa__explanation" hidden></p>
+          </div>
+        </section>
+        <!-- fin api NASA -->
         <section class="gallery"></section>
         <template id="plantilla">
           <div class="card">

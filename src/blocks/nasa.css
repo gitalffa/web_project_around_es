@@ -1,0 +1,44 @@
+.nasa {
+  color: aliceblue;
+  margin: 20px 0;
+}
+
+.nasa__card {
+  padding: 12px 16px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.nasa__title {
+  color: aliceblue;
+  margin: 0 0 10px;
+}
+
+.nasa__status {
+  margin: 0 0 10px;
+  opacity: 0.9;
+}
+
+.nasa__link {
+  display: block;
+  text-decoration: none;
+}
+
+.nasa__image {
+  width: 100%;
+  max-height: 360px;
+  object-fit: cover;
+  border-radius: 10px;
+  display: block;
+}
+
+.nasa__caption {
+  color: aliceblue;
+  margin: 10px 0 6px;
+}
+
+.nasa__explanation {
+  color: aliceblue;
+  margin: 0;
+  opacity: 0.9;
+}
