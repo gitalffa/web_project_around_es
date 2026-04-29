@@ -149,12 +149,6 @@ npm run dev
 
 ---
 
-## 🗒 Notas
-
-Este repositorio es la versión en **español** del proyecto Around. La versión en inglés está disponible en [web_project_around](https://github.com/gitalffa/web_project_around).
-
----
-
 ## 👤 Autor
 
 **Fabricio Galindo Copado**
