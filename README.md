@@ -9,11 +9,37 @@
 ![WeatherAPI](https://img.shields.io/badge/WeatherAPI-00BFFF?style=flat&logoColor=white)
 ![NASA API](https://img.shields.io/badge/NASA%20APOD-0B3D91?style=flat&logo=nasa&logoColor=white)
 
+## 📸 Vista previa
+
+![Vista principal](./screenshot1.png)
+![Tarjetas](./screenshot2.png)
+
+---
+
 ## 🔗 Demo en vivo
 
 👉 [Ver proyecto en GitHub Pages](https://gitalffa.github.io/web_project_around_es/)
 
 ---
+
+## 💡 El reto detrás del proyecto
+
+Este fue mi primer contacto real con APIs externas y con
+las promesas en JavaScript — y fue todo un desafío.
+
+Venía de 30 años desarrollando con PHP, donde la comunicación
+con bases de datos es síncrona y directa. JavaScript asíncrono
+funciona diferente: tienes que aprender a "esperar" resultados
+sin bloquear la aplicación, y eso al principio no es intuitivo.
+
+Entender cómo encadenar promesas con `.then()`, manejar errores
+con `.catch()` y coordinar dos APIs simultáneas (el clima y la
+NASA) fue el momento donde realmente sentí que estaba
+programando de forma moderna.
+
+Cuando por primera vez vi el clima de Tepic aparecer en pantalla
+obtenido en tiempo real, y la imagen de la NASA cargando como
+fondo dinámico — supe que había entendido el concepto.
 
 ## 📋 Descripción
 
